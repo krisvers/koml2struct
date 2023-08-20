@@ -12,7 +12,7 @@ or
 `koml2struct ./test.koml > test.h`
 
 ### KOML example
-![test.koml](./test.koml)
+[test.koml](./test.koml)
 ```md
 # comment
 # `i` specifies `int` type

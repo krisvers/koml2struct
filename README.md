@@ -1,7 +1,14 @@
 # koml2struct
 krisvers' (not-so) Obvious Markup Language C struct code-gen tool written in C99.
 
-## koml example
+## Usage (in CLI)
+`koml2struct ./test.koml`
+
+or
+
+`koml2struct ./test.koml > test.h`
+
+## KOML example
 ![test.koml](./test.koml)
 ```md
 # comment

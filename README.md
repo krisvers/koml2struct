@@ -3,7 +3,7 @@ krisvers' (not-so) Obvious Markup Language C struct code-gen tool written in C99
 
 ## koml example
 ![test.koml](./test.koml)
-```as
+```md
 # comment
 # `i` specifies `int` type
 i integer = 2
